@@ -1,0 +1,21 @@
+{
+  "name": "Template Djs 13",
+  "version": "0.0.1",
+  "description": "",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "src/index",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Hakim Nurubay",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.8.0",
+    "dotenv": "^10.0.0",
+    "glob": "^7.2.0"
+  }
+}
